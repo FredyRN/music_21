@@ -3,6 +3,10 @@
 
 A Music21 project that generates musical scores from a set of pitch classes (PC Set) and applies dynamic transpositions.
 
+## Captures
+
+![Captura de pantalla](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/master/captura-pantalla.png =300x200)
+
 ## Project Features
 
 - Generates musical scores in MIDI format.
@@ -11,6 +15,7 @@ A Music21 project that generates musical scores from a set of pitch classes (PC 
 - Applies dynamic transpositions to the score.
 - Allows for the export of the score in MIDI format.
 - Graphical user interface (GUI) for easy data entry.
+
 ## Prerequisites
 
 - Python 3.x
