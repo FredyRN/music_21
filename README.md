@@ -5,7 +5,7 @@ A Music21 project that generates musical scores from a set of pitch classes (PC 
 
 ## Captures
 
-![Captura de pantalla](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/master/captura-pantalla.png =300x200)
+![Captura de pantalla](https://github.com/FredyRN/music_21/blob/main/m21/resources/images/M21GenerarMIDI.png =300x200)
 
 ## Project Features
 
