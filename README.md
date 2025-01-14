@@ -3,9 +3,9 @@
 
 A Music21 project that generates musical scores from a set of pitch classes (PC Set) and applies dynamic transpositions.
 
-## Captures
+## Screenshots
 
-![Captura de pantalla](https://github.com/FredyRN/music_21/blob/main/m21/resources/images/M21GenerarMIDI.png =300x200)
+![App Screenshot](https://github.com/FredyRN/music_21/blob/main/m21/resources/images/M21GenerarMIDI.png?raw=true)
 
 ## Project Features
 
